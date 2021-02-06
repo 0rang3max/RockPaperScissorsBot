@@ -2,6 +2,8 @@
 ---
 Simple bot for playing RockPaperScissors in chats
 
+![Game screenshot](https://i.imgur.com/FOwEDXH.png)
+
 ### Usage
 - install package
 `pip install rock-paper-scissors-bot`
